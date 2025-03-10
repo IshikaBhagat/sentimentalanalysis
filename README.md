@@ -3,7 +3,8 @@ Moody - Facial Recognition Sentimental Analysis System Developed a system combin
 A passionate developer from India
 🔭 I’m currently working on Real-time emotion detection using Sentimental Analysis
 
-📫 How to reach me sejal20thakur@gmail.com
+📫 How to reach me ishikabhagat746@gmail.com
+
 
 Connect with me:
 
